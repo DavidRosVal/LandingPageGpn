@@ -1,0 +1,40 @@
+.presentation {
+  background: var(--azuloscuro);
+  position: relative;
+}
+
+.container-presentation {
+  padding-left: 20rem;
+  padding-right: 20rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container-presentation p {
+  width: 600px;
+}
+
+.container-presentation p span {
+  color: #9e3623;
+}
+
+.container-presentation img {
+  padding-left: 50px;
+}
+
+.izquierda {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.izquierda h1 {
+  color: var(--amarilloclaro);
+  line-height: 1.8;
+}
+
+.izquierda p {
+  color: var(--celeste);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}

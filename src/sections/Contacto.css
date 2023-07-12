@@ -1,0 +1,49 @@
+.contacto-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--azuloscuro);
+    padding: 5rem;
+}
+
+.texto-contacto {
+    text-align: center;
+    width: 40rem;
+    padding: 0 rem 3rem;
+}
+
+.texto-contacto h2 {
+    color: var(--amarilloclaro);
+    font-size: 3.5rem;
+    line-height: 1;
+}
+
+.texto-contacto p {
+    color: var(--blanco);
+}
+
+
+.contacto-boton {
+    text-align: center;
+    padding: 4rem;
+    color: var(--amarillooscuro);
+}
+
+.contacto-boton:hover {
+    transform: scale(1.1);
+}
+
+.contacto-instagram {
+    text-align: center;
+}
+
+.contacto-instagram p{
+    color: var(--blanco);
+    line-height: 0.2;
+}
+
+.contacto-instagram img {
+    width: 6rem;
+}
+
+

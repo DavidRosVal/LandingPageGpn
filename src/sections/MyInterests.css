@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.my-interests {
+  text-align: center;
+  background-color: var(--amarilloclaro);
+  padding-top: 0.5rem;
+  padding-bottom: 5rem;
+}
+
+.my-interests h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  color: var(--rojoclaro);
+}
