@@ -7,10 +7,10 @@ import Contacto from "./sections/Contacto";
 function App() {
   return (
     <>
-      <Presentation />
-      <AcercaDe />
+      <Presentation id="presentacion"/>
+      <AcercaDe id="acercade"/>
       <MyInterests id="carta"/>
-      <Contacto />
+      <Contacto id="contacto"/>
     </>
   );
 }

@@ -11,7 +11,7 @@ function NavBar() {
       <div className="navbar-links">
         <Link
           activeClass="active"
-          to="about"
+          to="acercade"
           spy={true}
           smooth={true}
           offset={-70}
@@ -31,7 +31,7 @@ function NavBar() {
         </Link>
         <Link
           activeClass="active"
-          to="contact"
+          to="contacto"
           spy={true}
           smooth={true}
           offset={-70}
